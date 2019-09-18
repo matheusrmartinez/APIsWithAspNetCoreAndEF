@@ -9,3 +9,6 @@ D:\12 - Projetos Desenvolvimento\Criando APIs com ASP.NET Core e EF Core\Product
 D:\12 - Projetos Desenvolvimento\Criando APIs com ASP.NET Core e EF Core\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.AssemblyInfo.cs
 D:\12 - Projetos Desenvolvimento\Criando APIs com ASP.NET Core e EF Core\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.dll
 D:\12 - Projetos Desenvolvimento\Criando APIs com ASP.NET Core e EF Core\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.pdb
+D:\12 - Projetos Desenvolvimento\Criando APIs com ASP.NET Core e EF Core\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.RazorAssemblyInfo.cache
+D:\12 - Projetos Desenvolvimento\Criando APIs com ASP.NET Core e EF Core\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.RazorAssemblyInfo.cs
+D:\12 - Projetos Desenvolvimento\Criando APIs com ASP.NET Core e EF Core\ProductCatalog\obj\Debug\netcoreapp2.1\ProductCatalog.RazorTargetAssemblyInfo.cache

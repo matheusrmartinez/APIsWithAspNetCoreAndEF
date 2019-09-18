@@ -9,6 +9,4 @@ namespace ProductCatalog.Models
         public string Title { get; set;}
         public IEnumerable<Product> Products { get; set;}
     }
-
-
 }
