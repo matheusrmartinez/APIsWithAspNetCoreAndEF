@@ -59,7 +59,7 @@ namespace ProductCatalog.Controllers
         }
 
         [Route("v1/categories")]
-        [HttpPut]
+        [HttpDelete]
         public Category Delete([FromBody]Category category)
         {
             _context.Remove(category);

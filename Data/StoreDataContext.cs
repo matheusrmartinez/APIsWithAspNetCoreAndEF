@@ -12,7 +12,6 @@ namespace ProductCatalog.Data
         {
             optionsBuilder.UseSqlServer(  "Server=localhost, 1433; Database=prodcat; User ID=SA;Password=!Matheus123*");
         }
-
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.ApplyConfiguration(new ProductMap());
